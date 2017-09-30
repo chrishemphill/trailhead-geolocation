@@ -47,10 +47,10 @@
         {
             "sourcePath": "/Users/chemphill/web/force/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 204,
-            "modifiedTime": 1506725397000,
-            "changeTime": 1506725397000,
-            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f",
+            "size": 238,
+            "modifiedTime": 1506725687000,
+            "changeTime": 1506725687000,
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -1061,14 +1061,14 @@
     [
         "/Users/chemphill/web/force/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/chemphill/web/force/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
-            "size": 394,
-            "modifiedTime": 1506723782000,
-            "changeTime": 1506723782000,
-            "contentHash": "56b2bbe44b75da43ef1af91f9da9df8594d5c5c6",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 588,
+            "modifiedTime": 1506798937000,
+            "changeTime": 1506798937000,
+            "contentHash": "ddc365771ea24935f0e92d526c1c9a0b779a95a9"
         }
     ],
     [
@@ -1100,14 +1100,14 @@
     [
         "/Users/chemphill/web/force/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/chemphill/web/force/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
-            "size": 255,
-            "modifiedTime": 1506723340000,
-            "changeTime": 1506723340000,
-            "contentHash": "1429a39ec420d191144f7a4ca90643616dcb584b",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 395,
+            "modifiedTime": 1506798966000,
+            "changeTime": 1506798966000,
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
         }
     ],
     [
@@ -1141,10 +1141,10 @@
         {
             "sourcePath": "/Users/chemphill/web/force/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
             "isDirectory": false,
-            "size": 126,
-            "modifiedTime": 1506722810000,
-            "changeTime": 1506722810000,
-            "contentHash": "82d12d2803ffc7c1db4ceb9e71bfd86495c47e6a",
+            "size": 132,
+            "modifiedTime": 1506798699000,
+            "changeTime": 1506798699000,
+            "contentHash": "bd5d0216742b5a226c39333d265b7ce0dd35121f",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1180,10 +1180,10 @@
         {
             "sourcePath": "/Users/chemphill/web/force/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
             "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1506722716000,
-            "changeTime": 1506722716000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "size": 395,
+            "modifiedTime": 1506798100000,
+            "changeTime": 1506798100000,
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1271,10 +1271,10 @@
         {
             "sourcePath": "/Users/chemphill/web/force/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
-            "size": 297,
-            "modifiedTime": 1506725438000,
-            "changeTime": 1506725438000,
-            "contentHash": "1f0070dcf6487bdbbfb509566a1c5efc963b190d",
+            "size": 376,
+            "modifiedTime": 1506798232000,
+            "changeTime": 1506798232000,
+            "contentHash": "3b023632c85efb0e88fe57811217b191a3a0f302",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1295,14 +1295,14 @@
     [
         "/Users/chemphill/web/force/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
-            "state": "u",
             "sourcePath": "/Users/chemphill/web/force/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1506725631000,
             "changeTime": 1506725631000,
-            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1"
+            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1310,10 +1310,10 @@
         {
             "sourcePath": "/Users/chemphill/web/force/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
-            "size": 389,
-            "modifiedTime": 1506725485000,
-            "changeTime": 1506725485000,
-            "contentHash": "96df2bbc44d6a1cc778c826039135b3cba593eaa",
+            "size": 796,
+            "modifiedTime": 1506798260000,
+            "changeTime": 1506798260000,
+            "contentHash": "490ff14d086ec196e59a26b763bc807877d9a8cb",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1341,6 +1341,45 @@
             "changeTime": 1506725397000,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chemphill/web/force/geolocation/force-app/main/default/aura/AccountsLoaded",
+        {
+            "sourcePath": "/Users/chemphill/web/force/geolocation/force-app/main/default/aura/AccountsLoaded",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1506725687000,
+            "changeTime": 1506725687000,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chemphill/web/force/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+        {
+            "sourcePath": "/Users/chemphill/web/force/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+            "isDirectory": false,
+            "size": 104,
+            "modifiedTime": 1506725972000,
+            "changeTime": 1506725972000,
+            "contentHash": "8fd46d30229b8413d117e1a6b672ba6811879bd6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chemphill/web/force/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+        {
+            "sourcePath": "/Users/chemphill/web/force/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1506725687000,
+            "changeTime": 1506725687000,
+            "contentHash": "edcfc45ce61428d47ff72a17793d818d9b9db151",
+            "isMetadataFile": true,
             "state": "u"
         }
     ]
